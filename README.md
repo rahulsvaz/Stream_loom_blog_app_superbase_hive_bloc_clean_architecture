@@ -10,3 +10,7 @@ we can implement the sign in and sign up function with auth repository in domain
 
 we are using supabase here for backend
 connect supabase with flutter (supabase url and anon key)
+
+
+created authRepositoryDataSource interface class in Data Layer and added sign sign up abstract function
+

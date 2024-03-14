@@ -1,16 +1,8 @@
-# stream_loom
+fp dart is a package for functional programming 
 
-A new Flutter project.
+we can return any data type with that 
+in Either we can return two types for error and success
 
-## Getting Started
+for error i created a class in core folder and returned with either in our authRepository abstract method ;
+we can implement the sign in and sign up function with auth repository in domain folder
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
